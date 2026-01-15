@@ -11,5 +11,8 @@ int main()
 	hello1Function(name1);
 	string name2 = "your name2";
 	hello2Function(name2);
+
+	cout << "Test Branch";
+
 	return 0;
 }
